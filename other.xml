@@ -3,6 +3,7 @@
     <option name="SDK_TO_PYTEST">
       <map>
         <entry key="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+        <entry key="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" value="false" />
       </map>
     </option>
   </component>
